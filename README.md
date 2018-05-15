@@ -9,9 +9,10 @@ This repository contains data samples of Bangla Sign Language characters and dig
    | Consonents | 30               | 50 	          | 1500                  |
 
 #### BdSL Digits- (CDD Standared)
-<img src="https://github.com/Sanzidikawsar/Bangla-Sign-Language/blob/master/figures/fig-1.jpg" width="500">
+<img src="https://github.com/Sanzidikawsar/Bangla-Sign-Language/blob/master/figures/fig-1.jpg" width="500" align="middle">
 
 #### BdSL Characters- (CDD Standared)
-<img src="https://github.com/Sanzidikawsar/Bangla-Sign-Language/blob/master/figures/fig-2.jpg" width="700">
+<img src="https://github.com/Sanzidikawsar/Bangla-Sign-Language/blob/master/figures/fig-2.jpg" width="700" align="middle">
+
 
 ### The full dataset will be uploaded soon!
