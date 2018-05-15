@@ -6,3 +6,5 @@ This repository contains data samples of Bangla Sign Language characters and dig
 
 #### BdSL Characters- (CDD Standared)
 ![alt text](https://github.com/Sanzidikawsar/Bangla-Sign-Language/blob/master/figures/fig-2.jpg width="48" "Bangla Sign Language Digits"){:height="50%" width="50%"}
+
+<img src="https://github.com/Sanzidikawsar/Bangla-Sign-Language/blob/master/figures/fig-2.jpg" width="48">
