@@ -15,4 +15,4 @@ This repository contains data samples of Bangla Sign Language characters and dig
 <img src="https://github.com/Sanzidikawsar/Bangla-Sign-Language/blob/master/figures/fig-2.jpg" width="700" align="middle">
 
 
-### Dataset are available here: [Ishara-Lipi](https://isharalipi.sanzidscloud.com)
+### Datasets are available here: [Ishara-Lipi](https://isharalipi.sanzidscloud.com)
